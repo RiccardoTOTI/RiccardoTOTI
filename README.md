@@ -22,8 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/k3s/k3s-plain-wordmark.svg" title="k3s" alt="k3s" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rancher/rancher-original-wordmark.svg" title="Rancher" alt="Rancher" width="40" height="40"/>&nbsp;
-  
-</div>
+ </div>
+
 
 - 🔭 I’m working at [SEACOM | Il tuo partner per l'Open Source | Società benefit](https://www.linkedin.com/company/seacom/)
 - 🌱 I’m currently learning DevSecOps 
