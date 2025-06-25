@@ -27,7 +27,7 @@
  </div>
 
 
-- 🔭 I’m working at [SEACOM | Il tuo partner per l'Open Source | Società benefit](https://www.linkedin.com/company/seacom/)
+- 🔭 I’m working at [Almawave Spa](https://www.almawave.com/it/)
 - 🌱 I’m currently learning DevSecOps 
 - 👯 I’m looking to collaborate on open-source GenAI projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/riccardo-toti/), [HuggingFace](https://huggingface.co/nonsonpratico)
